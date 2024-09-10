@@ -5,3 +5,13 @@ Comparisons Data/
 Experiments Data/
 IRT/
 Misc/
+Normalised Data/
+
+#Files
+*.ipynb
+*.whl
+create_str.py
+dataset.py
+print_tree.py
+HuggingCreds.txt
+tree.txt
