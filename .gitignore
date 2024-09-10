@@ -1,7 +1,7 @@
 #Venvs
 AFRLANotebookVenv/
 AFRLAVenv/
-Comparisons Data/
+Comparisons Data/*
 Experiments Data/
 IRT/
 Misc/
@@ -15,3 +15,4 @@ dataset.py
 print_tree.py
 HuggingCreds.txt
 tree.txt
+!Comparisons Data/significance.csv
